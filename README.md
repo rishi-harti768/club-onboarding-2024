@@ -23,3 +23,5 @@ Once you complete this task, you should have the basic required `git` knowledge.
 a multi step task and you have to complete all of them.
 
 Failing to complete these tasks can lead to disqalification from the club. This should not take more than 2-3 minutes if you are comfortable with `git`.
+
+You can take hints from the mock file we have created and a closed PR available on the `Pull Requests` tab.
