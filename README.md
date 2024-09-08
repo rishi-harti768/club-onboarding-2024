@@ -3,6 +3,8 @@
 This repository will handle code for the onboarding students from the class of 2028 on the club. Please complete the following tasks. Try to complete these tasks on your own,
 use Google if you get stuck and refrain from just copying commands from GPT, Claude etc.
 
+## 7 Sept 2024
+
 Your task is to add a file called `<your-email>` into the `members` directory in this repo. For example if `Archisman` with the email id `archisman.23bcs10027 <at> sst.scaler.com` wanted
 to do this, he would go into the `members` directory and create a file called `archisman.23bcs10027 <at> sst.scaler.com` (you can leave the `.txt` or other extensions). Inside this file,
 he would write the following things
@@ -25,3 +27,7 @@ a multi step task and you have to complete all of them.
 Failing to complete these tasks can lead to disqalification from the club. This should not take more than 2-3 minutes if you are comfortable with `git`.
 
 You can take hints from the mock file we have created and a closed PR available on the `Pull Requests` tab.
+
+## 8 Sept 2024
+
+Comming Soon
