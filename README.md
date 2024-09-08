@@ -3,6 +3,10 @@
 This repository will handle code for the onboarding students from the class of 2028 on the club. Please complete the following tasks. Try to complete these tasks on your own,
 use Google if you get stuck and refrain from just copying commands from GPT, Claude etc.
 
+## 9 Sept 2024
+
+Comming Soon
+
 ## 8 Sept 2024
 
 Your task now is to add some details to your already created file. You should stay on the same branch that you are currently working on. So if `Sachin` with the email ID `sachin.23bcs10070 <at> sst.scaler.com` wanted to do this task, the new content of his file would be
