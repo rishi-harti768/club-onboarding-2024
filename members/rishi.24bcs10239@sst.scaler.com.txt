@@ -1,3 +1,7 @@
 Rishi Harti
 rishi.24bcs10239@sst.scaler.com
 Student @ Scaler School of Technology
+Java
+JavaScript
+C++
+PHP
